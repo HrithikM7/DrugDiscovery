@@ -40,8 +40,9 @@ After determining the best model, hyperparameter tuning was performed using "Gri
 At last, a pickle file was created to store the model, so that the model can be used in the future.
 
 ## Result
-Out of all the models that were tried out, the best result obtained was by : Random Forest * w/ Model R2 Score : 57.113%
-                                                                                           * w/ Mean Absolute Error : 0.8427
+Out of all the models that were tried out, the best result obtained was by : 
+
+* Random Forest  w/ Model R2 Score : 57.113% & Mean Absolute Error : 0.8427
 
 ## Importance
 The field of machine learning has seen a tremendous growth over the past few years, and is only going to grow further in the future.
